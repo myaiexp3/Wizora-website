@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/oauth/tiktok/callback",
-      "destination": "https://api.wizora.co.uk/oauth/tiktok/callback",
-      "permanent": false
-    }
-  ]
-}
